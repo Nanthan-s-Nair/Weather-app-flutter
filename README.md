@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Weather-app-flutter
+Weather app using flutter and Open Weather
+=======
+>>>>>>> e6cc22c (Resolved conflict in README.md)
 # weather_app
 
 A new Flutter project.
@@ -14,3 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+>>>>>>> 33e239f (My First Commit)
+>>>>>>> e6cc22c (Resolved conflict in README.md)
